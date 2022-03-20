@@ -1,0 +1,55 @@
+sixNodes
+
+Deafult tour value (permuatation for 0 - n): 9
+swapHeuristic k = n//2  tourValue:9 time taken(s): 4.60147857666e-05
+swapHeuristic k = n  tourValue:9 time taken(s): 0.00311994552612
+TwoOptHeuristic k = n // 2  tourValue:9 time taken(s): 5.69820404053e-05
+TwoOptHeuristic k = n   tourValue:9 time taken(s): 5.00679016113e-05
+Greedy   tourValue:8 time taken(s): 1.09672546387e-05
+swapHeuristic(n) then TwoOptHeuristic(n)   tourValue:9 time taken(s): 0.000147104263306
+nearestInsertion Huerstic   tourValue:9 time taken(s): 3.09944152832e-05
+Optimal soloution (my method )  tourValue:8 time taken(s): 0.000294923782349
+twelveNodes
+
+Deafult tour value (permuatation for 0 - n): 34
+swapHeuristic k = n//2  tourValue:32 time taken(s): 0.000131845474243
+swapHeuristic k = n  tourValue:32 time taken(s): 0.000131845474243
+TwoOptHeuristic k = n // 2  tourValue:25 time taken(s): 0.00157308578491
+TwoOptHeuristic k = n   tourValue:25 time taken(s): 0.00103497505188
+Greedy   tourValue:26 time taken(s): 1.90734863281e-05
+swapHeuristic(n) then TwoOptHeuristic(n)   tourValue:26 time taken(s): 0.00085186958313
+nearestInsertion Huerstic   tourValue:32 time taken(s): 6.69956207275e-05
+Optimal soloution (my method )  tourValue:24 time taken(s): 148.974583864
+Euclidean10
+
+Deafult tour value (permuatation for 0 - n): 826.641046703
+swapHeuristic k = n//2  tourValue:704.7136586 time taken(s): 0.00179195404053
+swapHeuristic k = n  tourValue:704.7136586 time taken(s): 0.000230073928833
+TwoOptHeuristic k = n // 2  tourValue:600.836165711 time taken(s): 0.00071907043457
+TwoOptHeuristic k = n   tourValue:600.836165711 time taken(s): 0.00068211555481
+Greedy   tourValue:801.255452567 time taken(s): 3.50475311279e-05
+swapHeuristic(n) then TwoOptHeuristic(n)   tourValue:600.836165711 time taken(s): 0.00106191635132
+nearestInsertion Huerstic   tourValue:741.604390563 time taken(s): 5.60283660889e-05
+Optimal soloution (my method )  tourValue:587.337997216 time taken(s): 0.958788871765
+Non Metric 10 
+
+Deafult tour value (permuatation for 0 - n): 29846
+swapHeuristic k = n//2  tourValue:18272 time taken(s): 0.000162839889526
+swapHeuristic k = n  tourValue:18272 time taken(s): 0.000160932540894
+TwoOptHeuristic k = n // 2  tourValue:8824 time taken(s): 0.000445127487183
+TwoOptHeuristic k = n   tourValue:8824 time taken(s): 0.000452995300293
+Greedy   tourValue:10562 time taken(s): 2.88486480713e-05
+swapHeuristic(n) then TwoOptHeuristic(n)   tourValue:8824 time taken(s): 0.000586986541748
+nearestInsertion Huerstic   tourValue:12443 time taken(s): 4.79221343994e-05
+Optimal soloution (my method )  tourValue:8824 time taken(s): 0.937294006348
+xqf131
+
+Deafult tour value (permuatation for 0 - n): 1383.91687691
+swapHeuristic k = n//2  tourValue:1213.03760453 time taken(s): 0.0195548534393
+swapHeuristic k = n  tourValue:1213.03760453 time taken(s): 0.0186347961426
+TwoOptHeuristic k = n // 2  tourValue:609.673546532 time taken(s): 1.54426813126
+TwoOptHeuristic k = n   tourValue:609.673546532 time taken(s): 1.57413101196
+Greedy   tourValue:709.521627826 time taken(s): 0.00128889083862
+swapHeuristic(n) then TwoOptHeuristic(n)   tourValue:592.165708632 time taken(s): 1.55438709259
+nearestInsertion Huerstic   tourValue:989.81132629 time taken(s): 0.044652223587
+Optimal soloution (given not claculated )  tourValue:564
